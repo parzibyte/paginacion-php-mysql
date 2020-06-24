@@ -16,15 +16,6 @@
     Ayuda:      https://parzibyte.me/blog/contrataciones-ayuda/
     Contacto:   https://parzibyte.me/blog/contacto/
 */ ?>
-<?php
-/*
-	Pequeño, muy pequeño sistema de ventas en PHP con MySQL
-
-	@author parzibyte
-
-	No olvides visitar parzibyte.me/blog para más cosas como esta
-*/
-?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
